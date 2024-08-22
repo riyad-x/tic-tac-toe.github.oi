@@ -9,4 +9,5 @@
   <li>🎉 Endless fun with friends or solo play.</li>
 </ul>
 
-<h3>🌟 <a ">Play Now: Tic-Tac-Toe Game</a></h3>
+<h3>🌟 <a "https://riyad-x.github.io/tic-tac-toe.github.oi/ ">Play Now: Tic-Tac-Toe Game</a></h3>
+
